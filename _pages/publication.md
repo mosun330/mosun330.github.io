@@ -17,7 +17,7 @@ redirect_from:
 
 * Zhao Cui, Caifeng Li, Wei Liu, **Mo Sun**, Shiwen Deng, Junxian Cao, Hongjun Yang and Peng Chen. “Scutellarin activates IDH1 to exert antitumor effects in hepatocellular carcinoma progression”, Cell Death & Disease. 2024
 
-* Yu,Gengyuan*, **Mo Sun***, Tonghua Zhang, Haoran Xu, Jiaqi Wang, Wanting Ye, Peng Wang, Shiyun Zhang, Chenning Zhang, and Yikun Sun. “Lanhuashen stimulates the positive cross-regulation medi- ated by the S1P axis to ameliorate the disorder of glucolipid metabolism induced by the high sucrose diet in Drosophila melanogaster”, Journal of Ethnopharmacology. 2023
+* Yu,Gengyuan*, **Mo Sun**\*, Tonghua Zhang, Haoran Xu, Jiaqi Wang, Wanting Ye, Peng Wang, Shiyun Zhang, Chenning Zhang, and Yikun Sun. “Lanhuashen stimulates the positive cross-regulation medi- ated by the S1P axis to ameliorate the disorder of glucolipid metabolism induced by the high sucrose diet in Drosophila melanogaster”, Journal of Ethnopharmacology. 2023
 
 * Srinivasan, Suhas, Hongzhu Cui, Ziyang Gao, Ming Liu, Senbao Lu, Winnie Mkandawire, Oleksandr Narykov, **Mo Sun** and Dmitry Korkin. “Structural genomics of SARS-CoV-2 indicates evolutionary con- served functional regions of viral proteins”, Viruses. 2020
 
