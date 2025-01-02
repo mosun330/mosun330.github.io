@@ -13,6 +13,7 @@ I am a PhD student in [Bioinformatics](https://bioinformatics.gatech.edu/) from 
 I'm a big fan of basketball and football. In my spare time, I like traveling and watching movies.
 
 
+
 Research Interests
 ======
 My research interests is using bioinformatic methods to study the principle and biologically meaningful patterns of genomics, especially in:
@@ -24,10 +25,11 @@ My research interests is using bioinformatic methods to study the principle and 
 3) Single cell epigenomics.
 
 
+
 News
 ======
 * Sep 2024: I gave a talk about our rNMPID database on [RNase H 2024 conference.](https://4r-rtg.de/rnaseh-2024/)
-* July 2024: Our work about IDH1 is accepted by Cell Death & Disease. [(link)](https://doi.org/10.1038/s41419-024-06625-6)
-* May 2024: Our database paper accepted by Bioinformatics Advances. [(link)](https://doi.org/10.1093/bioadv/vbae063)
-* Dec 2023: Our human mitochondrial paper accepted by Nucleic Acids Research. [(link)](https://doi.org/10.1093/nar/gkad1204)
+* July 2024: Our work about IDH1 is accepted by Cell Death & Disease. [link](https://doi.org/10.1038/s41419-024-06625-6)
+* May 2024: Our database paper accepted by Bioinformatics Advances. [link](https://doi.org/10.1093/bioadv/vbae063)
+* Dec 2023: Our human mitochondrial paper accepted by Nucleic Acids Research. [link](https://doi.org/10.1093/nar/gkad1204)
 
