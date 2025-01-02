@@ -11,7 +11,7 @@ redirect_from:
 
 ---
 (*equally contributed)
-* Jingcheng Yang*, **Mo Sun***, Zihan Ran, Taewhan Yang, Deepali L. Kundnani, Francesca Storici, Penghao Xu. “rNMPID: a database for riboNucleoside Mono-Phosphates In DNA”, Bioinformatics Advances. 2024
+* Jingcheng Yang*, **Mo Sun**\*, Zihan Ran, Taewhan Yang, Deepali L. Kundnani, Francesca Storici, Penghao Xu. “rNMPID: a database for riboNucleoside Mono-Phosphates In DNA”, Bioinformatics Advances. 2024
   
 * Xu, Penghao, Taehwan Yang, Deepali L. Kundnani, **Mo Sun**, Stefania Marsili, Alli L. Gombolay, Youngkyu Jeon et al. “Light-strand bias and enriched zones of embedded ribonucleotides are associ- ated with DNA replication and transcription in the human-mitochondrial genome”, Nucleic Acids Res. 2024
 
