@@ -26,6 +26,8 @@ My research interests is using bioinformatic methods to study the principle and 
 
 News
 ======
+* May 2024: Our database paper accepted by Bioinformatics Advances. [link](https://doi.org/10.1093/bioadv/vbae063)
+* Dec 2023: Our human mitochondrial paper accepted by Nucleic Acids Research. [link](https://doi.org/10.1093/nar/gkad1204)
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
 1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
