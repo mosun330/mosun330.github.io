@@ -15,7 +15,7 @@ Education
 * M.S. in Bioinformatics & Computational Biology, Worcester Polytechnic Institute, 2021
 * B.S. in Pharmacy, Beijing University of Chinese Medicine, 2019
 
-You can view my CV in here
+You can view my CV in [here](http://mosun330.github.io/files/Mo_resume.pdf)
 
 Publications
 ======
