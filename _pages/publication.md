@@ -11,8 +11,15 @@ redirect_from:
 
 Journals
 ---
-* Yang, Jingcheng, Mo Sun, Zihan Ran, Taehwan Yang, Deepali L. Kundnani, Francesca Storici, and Penghao Xu. "rNMPID: a database for riboNucleoside MonoPhosphates in DNA." Bioinformatics Advances 4, no. 1 (2024): vbae063. 
-* Srinivasan, Suhas, Hongzhu Cui, Ziyang Gao, Ming Liu, Senbao Lu, Winnie Mkandawire, Oleksandr Narykov, Mo Sun, and Dmitry Korkin. "Structural genomics of SARS-CoV-2 indicates evolutionary conserved functional regions of viral proteins." Viruses 12, no. 4 (2020): 360.[pdf]('http://msun330.github.io/files/viruses-12-00360-v2.pdf')
+
+* Jingcheng Yang, *Mo Sun, Zihan Ran, Taewhan Yang, Deepali L. Kundnani, Francesca Storici, Penghao Xu. “rNMPID: a database for riboNucleoside Mono-Phosphates In DNA”, Bioinformatics Advances. 2024
+  
+* Xu, Penghao, Taehwan Yang, Deepali L. Kundnani, Mo Sun, Stefania Marsili, Alli L. Gombolay, Youngkyu Jeon et al. “Light-strand bias and enriched zones of embedded ribonucleotides are associ- ated with DNA replication and transcription in the human-mitochondrial genome”, Nucleic Acids Res. 2024
+
+* Zhao Cui, Caifeng Li, Wei Liu, Mo Sun, Shiwen Deng, Junxian Cao, Hongjun Yang and Peng Chen. “Scutellarin activates IDH1 to exert antitumor effects in hepatocellular carcinoma progression”, Cell Death & Disease. 2024
+
+* Srinivasan, Suhas, Hongzhu Cui, Ziyang Gao, Ming Liu, Senbao Lu, Winnie Mkandawire, Oleksandr Narykov, Mo Sun and Dmitry Korkin. “Structural genomics of SARS-CoV-2 indicates evolutionary con- served functional regions of viral proteins”, Viruses. 2020
+
 ---
   
 
