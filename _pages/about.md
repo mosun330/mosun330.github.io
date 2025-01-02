@@ -24,7 +24,7 @@ My research interests is using bioinformatic methods to study the principle and 
 3) Single cell epigenomics.
 
 
-Getting started
+News
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
