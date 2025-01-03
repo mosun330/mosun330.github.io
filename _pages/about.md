@@ -32,4 +32,5 @@ News
 * July 2024: Our work about IDH1 is accepted by Cell Death & Disease. [link](https://doi.org/10.1038/s41419-024-06625-6)
 * May 2024: Our database paper accepted by Bioinformatics Advances. [link](https://doi.org/10.1093/bioadv/vbae063)
 * Dec 2023: Our human mitochondrial paper accepted by Nucleic Acids Research. [link](https://doi.org/10.1093/nar/gkad1204)
+* Mar 2020: Our work about Covid-19 accepted by Viruses. [link](https://doi.org/10.3390/v12040360) More information about this work has been reported by [nbc news.](https://www.nbcboston.com/news/local/wpi-professor-unveils-3d-model-of-coronavirus/2076624/)
 
