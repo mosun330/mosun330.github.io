@@ -10,7 +10,7 @@ redirect_from:
 
 I am a PhD student in [Bioinformatics](https://bioinformatics.gatech.edu/) from Georgia Tech supervised by Prof.[Francesca Storici](https://storicilab.gatech.edu/).Before my PhD, I earned my bachelor degree in Pharmacy from Beijing University of Chinese medicine and my master degree in [Bioinformatics and Computational Biology](https://www.wpi.edu/academics/departments/bioinformatics-computational-biology) from Worcester Polytechnic Institute(WPI).
 
-I'm a big fan of basketball and football. In my spare time, I like traveling and watching movies.
+I'm a big fan of basketball and soccer. In my spare time, I like traveling and watching movies.
 
 
 
