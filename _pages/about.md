@@ -28,6 +28,7 @@ My research interests is using bioinformatic methods to study the principle and 
 
 News
 ======
+* Jan 2025: I passed the qualifying exam and became a PhD candidate now.
 * Sep 2024: I gave a talk about our rNMPID database on [RNase H 2024 conference.](https://4r-rtg.de/rnaseh-2024/)
 * July 2024: Our work about IDH1 is accepted by Cell Death & Disease. [link](https://doi.org/10.1038/s41419-024-06625-6)
 * May 2024: Our database paper accepted by Bioinformatics Advances. [link](https://doi.org/10.1093/bioadv/vbae063)
